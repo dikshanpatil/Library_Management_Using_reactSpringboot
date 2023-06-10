@@ -1,7 +1,7 @@
 # Library_Management_Using_reactSpringboot
 Library_Management_Using_reactSpringboot
 
-This repo uses ract for frontend
+This repo uses react for frontend and 
 Uses springboot framework for creating API as backend
 
 Author: Diskha Patil
