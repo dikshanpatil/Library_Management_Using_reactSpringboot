@@ -195,7 +195,7 @@ export const BookCheckoutPage = () => {
         })
     },[authState]);
 
-    if(isLoading || isLoadingReview || isLoadingCurrentLoansCount || isLoadingCurrentLoansCount || isLoadingUserReview){
+    if(isLoading || isLoadingReview || isLoadingCurrentLoansCount || isLoadingBookCheckedOut || isLoadingUserReview){
         return (
             <SpinnerLoading/>
         )

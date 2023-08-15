@@ -23,7 +23,7 @@ export const Loans = () =>{
                     method : 'GET',
                     headers :{
                         Authorization : `Bearer ${authState?.accessToken?.accessToken}`,
-                        'Content-Type' :'applicatin/json'
+                        'Content-Type' :'application/json'
                     }
                 };
                 const shelfCurrentLoansResponse = await fetch(url, requestOptions);
@@ -39,7 +39,7 @@ export const Loans = () =>{
             setIsLoadingUserLoans(false);
             setHttpError(error.message);
         })
-        window.scroll(0, 0);
+        window.scrollTo(0, 0);
     },[authState, checkOut]);
 
     if(isLoadingUserLoans){
@@ -59,7 +59,7 @@ export const Loans = () =>{
     async function returnBook(bookId:number) {
         const url = `${process.env.REACT_APP_API}/books/secure/return/?bookId=${bookId}`;
         const requestOptions = {
-            method : 'GET',
+            method : 'PUT',
             headers :{
                 Authorization : `Bearer ${authState?.accessToken?.accessToken}`,
                 'Content-Type' :'applicatin/json'
@@ -78,7 +78,7 @@ export const Loans = () =>{
             method : 'PUT',
             headers :{
                 Authorization : `Bearer ${authState?.accessToken?.accessToken}`,
-                'Content-Type' :'applicatin/json'
+                'Content-Type' :'application/json'
             }
         };
         const returnResponse = await fetch(url, requestOptions);
