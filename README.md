@@ -11,9 +11,12 @@ Setup Required-
         The website for nvm is: https://github.com/nvm-sh/nvm
     4. Install Node 
     5. Install TSC - TypeScript Compiler    
-    6. IntelliJ IDEA with Java
+    6. Java Development Kit (JDK)
+    7. Java IDE 
+    8. Maven
+    9. MySQL Database and MySQL Workbench.
 
-1. HomePage Component
+**HomePage Component**
    1. Navigation Bar component -
       
    <img width="1440" alt="Screenshot 2023-08-17 at 12 51 05 PM" src="https://github.com/dikshanpatil/Library_Management_Using_reactSpringboot/assets/128430331/d75db873-8d47-40ea-b9c3-ef216b1636fe">
@@ -37,6 +40,13 @@ Setup Required-
    6. Footer Component - 
    
    <img width="1440" alt="Screenshot 2023-08-17 at 12 52 18 PM" src="https://github.com/dikshanpatil/Library_Management_Using_reactSpringboot/assets/128430331/33af1746-bb3e-42ef-b7a2-4eab245c25dd">
+
+
+**SETUP DATABASE** 
+ Running this scripts will have your database ready - 
+ https://github.com/dikshanpatil/Library_Management_Using_reactSpringboot/tree/main/01-starter-files/Scripts
+
+
 
 This repo uses react for frontend and 
 Uses spring boot framework for creating API as backend
