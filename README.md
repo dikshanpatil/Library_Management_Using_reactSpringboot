@@ -64,16 +64,17 @@ APIs
 
 
 Setup Required-
-    1. Git
-    2. Visual Studio Code
-    3. NVM
-        The website for nvm is: https://github.com/nvm-sh/nvm
-    4. Install Node 
-    5. Install TSC - TypeScript Compiler    
-    6. Java Development Kit (JDK)
-    7. Java IDE 
-    8. Maven
-    9. MySQL Database and MySQL Workbench.
+    1. Git  
+    2. Visual Studio Code  
+    3. NVM  
+    	The website for nvm is: https://github.com/nvm-sh/nvm  
+    4. Install Node  
+    5. Install TSC - TypeScript Compiler   
+    6. Java Development Kit (JDK)  
+    7. Java IDE   
+    8. Maven  
+    9. MySQL Database and MySQL Workbench.  
+    
 
 **HomePage Component**
    1. Navigation Bar component -
