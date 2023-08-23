@@ -214,7 +214,7 @@ export const BookCheckoutPage = () => {
             method : 'PUT',
             headers :{
                 Authorization : `Bearer ${authState?.accessToken?.accessToken}`,
-                'Content-type' : 'applicatin/json'
+                'Content-type' : 'application/json'
             }
         };
         const checkoutResponse = await fetch(url, requestOptions);
