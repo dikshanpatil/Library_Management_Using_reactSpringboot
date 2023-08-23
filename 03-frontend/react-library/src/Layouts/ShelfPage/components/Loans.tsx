@@ -62,7 +62,7 @@ export const Loans = () =>{
             method : 'PUT',
             headers :{
                 Authorization : `Bearer ${authState?.accessToken?.accessToken}`,
-                'Content-Type' :'applicatin/json'
+                'Content-Type' :'application/json'
             }
         };
         const returnResponse = await fetch(url, requestOptions);
