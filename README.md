@@ -17,8 +17,7 @@ Uses Stripe for streamlined payment processing.
 **APIs**
 
 ---
-<h1>BOOK</h1>
-
+**BOOK**
 Get Mapping to find whether a particular book is checked out by the user.
     Get Mapping to find the number of books checked out by the user.
     Put Mapping to add checked out books in the database.
