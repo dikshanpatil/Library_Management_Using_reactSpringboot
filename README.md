@@ -17,12 +17,9 @@ Uses Stripe for streamlined payment processing.
 **APIs**
 
 ---
-**BOOK**
-Get Mapping to find whether a particular book is checked out by the user.
-    Get Mapping to find the number of books checked out by the user.
-    Put Mapping to add checked out books in the database.
-    Put Mapping for the return book.
-    Put Mapping for the renewal of the book.
+**BOOK**   
+
+---  
 
     Get Mapping to find whether a particular book is checked out by the user.
     Get Mapping to find the number of books checked out by the user.
@@ -34,31 +31,45 @@ Get Mapping to find whether a particular book is checked out by the user.
     			“Id” : “15”
             }
 
-	Admin
+**Admin**  
+
+---  
+
     PutMapping to increase the count of a particular book
     PutMapping to decrease the count of a particular book.
     PostMapping to add a new book.
     PostMapping to delete a book. 
         {
-    			“userType” : “admin”,
-    			“Id” : “15”
+    		“userType” : “admin”,
+    		“Id” : “15”
         }
-    Messages
+
+ 
+**Messages**  
+
+---  
+
     PostMapping to post user questions.
     PutMapping for admin response to the questions.
         {
-    			“userType” : “admin”,
-    			“question” : “”,
-    			“Id” : “15”
+    		“userType” : “admin”,
+    		“question” : “”,
+    		“Id” : “15”
         }
-    
-    Payment
+  
+**Payment**  
+
+---  
+
     PutMapping to indicate the user for successful payment.
         {
-    			“user_email” : “xyz@gmail.com”
+    		“user_email” : “xyz@gmail.com”
         }
     	
-    Review
+**Review**  
+
+---  
+
     GetMapping to check whether the user has already given the review.
     PostMapping to post the review.
         {
@@ -66,12 +77,12 @@ Get Mapping to find whether a particular book is checked out by the user.
     	    “Id” : “15”,
             “message” : “hello it was a great book !”
         }
-
-
  
 
+**Setup Required**  
 
-Setup Required-
+---  
+
     1. Git  
     2. Visual Studio Code  
     3. NVM  
