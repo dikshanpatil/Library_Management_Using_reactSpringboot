@@ -7,21 +7,24 @@ A Full-Stack application with React and Spring Boot
 <img width="800" alt="Screenshot 2023-08-16 at 3 25 50 PM" src="https://github.com/dikshanpatil/Library_Management_Using_reactSpringboot/assets/128430331/8d24350d-a431-4898-a8f9-fcb3ea2cd857">
 
 This is a Library Management System with an Admin and  User side for the application.  
-
 Admin can perform CRUD operations with books.  
-
 Users can issue, return, renew, and leave a review for the book.  
-
 Uses JWT to authenticate login.  
-
 Uses Okta login to authenticate users.  
-
 Uses Stripe for streamlined payment processing.  
 
 
-APIs
+**APIs**
 
-    Book
+---
+<h1>BOOK</h1>
+
+Get Mapping to find whether a particular book is checked out by the user.
+    Get Mapping to find the number of books checked out by the user.
+    Put Mapping to add checked out books in the database.
+    Put Mapping for the return book.
+    Put Mapping for the renewal of the book.
+
     Get Mapping to find whether a particular book is checked out by the user.
     Get Mapping to find the number of books checked out by the user.
     Put Mapping to add checked out books in the database.
