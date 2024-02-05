@@ -14,7 +14,7 @@ Uses JWT to authenticate login.
 Uses Okta login to authenticate users.  
 Uses Stripe for streamlined payment processing.  
 
-For complete Application working, feel free to watch video :- [![![Screenshot 2024-02-05 at 10 38 37 AM](https://github.com/dikshanpatil/Library_Management_Using_reactSpringboot/assets/128430331/73be1e53-5074-4be6-8bb9-267c254979f7)
+For complete Application working, feel free to watch video :- [! Library Management System 
 (https://img.youtube.com/vi/g6D69o4I7zM)](https://www.youtube.com/watch?v=g6D69o4I7zM)
 
 **APIs**
