@@ -117,9 +117,10 @@ Uses Stripe for streamlined payment processing.
 ---  
 
 **UI for Admin**  
-<img width="800" alt="Screenshot 2024-02-05 at 10.36.41 AM.png" src="Screenshot 2024-02-05 at 10.36.41 AM.png">
+
 ---  
 
+![Screenshot 2024-02-05 at 10 54 21 AM](https://github.com/dikshanpatil/Library_Management_Using_reactSpringboot/assets/128430331/306770b3-50a5-49df-bad0-2bb390abea50)
 
 
 
