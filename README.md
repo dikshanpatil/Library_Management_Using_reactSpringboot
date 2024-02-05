@@ -117,7 +117,7 @@ Uses Stripe for streamlined payment processing.
 ---  
 
 **UI for Admin**  
-
+<img width="800" alt="Screenshot 2024-02-05 at 10.36.41 AM.png" src="Screenshot 2024-02-05 at 10.36.41 AM.png">
 ---  
 
 
