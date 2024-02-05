@@ -14,6 +14,9 @@ Uses JWT to authenticate login.
 Uses Okta login to authenticate users.  
 Uses Stripe for streamlined payment processing.  
 
+For complete Application working, feel free to watch video :- 
+
+[![Library Management System](https://img.youtube.com/vi/g6D69o4I7zM)](https://www.youtube.com/watch?v=g6D69o4I7zM)
 
 **APIs**
 
@@ -103,31 +106,41 @@ Uses Stripe for streamlined payment processing.
  https://github.com/dikshanpatil/Library_Management_Using_reactSpringboot/tree/main/01-starter-files/Scripts
     
 **Screenshots**  
-
----  
-
-
-**HomePage Component**    
-
----  
-
-
-**UI for User**  
-
 ---  
 
 **UI for Admin**  
+ ![Screenshot 2024-02-05 at 10 56 35 AM](https://github.com/dikshanpatil/Library_Management_Using_reactSpringboot/assets/128430331/4676879e-311c-41ca-bce4-df0fa8d46960)
 
 ---  
 
-![Screenshot 2024-02-05 at 10 54 21 AM](https://github.com/dikshanpatil/Library_Management_Using_reactSpringboot/assets/128430331/306770b3-50a5-49df-bad0-2bb390abea50)
+**UI for User**  
+![Screenshot 2024-02-05 at 10 57 18 AM](https://github.com/dikshanpatil/Library_Management_Using_reactSpringboot/assets/128430331/2e78fa09-5ae7-4f28-8d69-acf38a68ce6c)
 
+---  
 
+**UI for User**  
+![Screenshot 2024-02-05 at 10 57 18 AM](https://github.com/dikshanpatil/Library_Management_Using_reactSpringboot/assets/128430331/2e78fa09-5ae7-4f28-8d69-acf38a68ce6c)
 
+---
 
+ **Pagination Implemented** 
+![Screenshot 2024-02-05 at 11 01 23 AM](https://github.com/dikshanpatil/Library_Management_Using_reactSpringboot/assets/128430331/99633a10-69a3-4c2d-a0bd-b41854a018b9)
 
+---
 
+**Q/A Section**
+![Screenshot 2024-02-05 at 10 36 41 AM](https://github.com/dikshanpatil/Library_Management_Using_reactSpringboot/assets/128430331/25dcdbe3-537b-4692-a9e9-cefc76fe21e2)
 
+---
 
+**Increase/Decrease Quantity of Books**
+![Screenshot 2024-02-05 at 10 38 00 AM](https://github.com/dikshanpatil/Library_Management_Using_reactSpringboot/assets/128430331/2f5f763b-b99d-462c-82fd-516de558a190)
+
+---
+
+**Adaptive Design**
+![Screenshot 2024-02-05 at 10 38 27 AM](https://github.com/dikshanpatil/Library_Management_Using_reactSpringboot/assets/128430331/1674a446-0024-470c-bb27-269a4f099330)
+
+---
 
 Author: Diskha Patil
